@@ -1,0 +1,37 @@
+Midterm project (50 pts max)
+Create web application using Java (or python, php, Nodejs etc) with Framework. 
+
+Submit link to working app and github.
+
+Requirements:
+
+Github (max 20 pts)
+
+readme description of project
+database schema (ERD image)
+commit history (at least 10, within week)
+screenshots
+link to deploy (if there is)
+Main page (max 15 pts)
+Short description
+University or Faculty logo
+List data from one table
+Link to REST API example
+login page (security)
+Database (max 15 pts)
+
+h2 (5 pts)
+sqlite (10 pts)
+mysql (15 pts)
+postgre (15 pts)
+
+Bonus points (25 pts max):
+writing markdown step-by-step tutorial of how you created this projet
+deploy it to cloud (PaaS, SaaS) heroku, AWS etc.
+YouTube video tutorial
+TikToks on Back-end Web programming course humor on AIU (5 point for each)
+
+Penalty points (30 pts max)
+violating deadlines (1 pts per 3 hours)
+plagiarism (30 pts)
+content and REST API topic is the same (student or tracker management system) - 10 pts
